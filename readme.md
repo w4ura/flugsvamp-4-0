@@ -4,11 +4,11 @@ Flugsvamp 4.0 är den fjärde i raden av marknader enbart för Sverige och följ
 ## Flugsvamp 4.0 URL:
 
 ```sh
-http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion
+http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion)
 
-<a href="http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion"><img src="/assets/flugsvamp-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion"><img src="/assets/flugsvamp-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -26,4 +26,4 @@ Registreringsprocessen på Flugsvamp 4.0 är enkel, okomplicerad och anonym. Äv
 
 När du har loggat in är det klokt att ställa in din privata PGP-nyckel (du behöver PGP Flugsvamp 4.0 offentliga nyckel för detta) för att kryptera och dekryptera alla dina meddelanden här. Om du inte vet hur du gör det kan du söka efter ”PGP-nyckel” i inställningarna för din profil och ditt konto. Du kan också lägga till en PIN-kod till ditt lösenord som en extra säkerhetsåtgärd.
 
-<a href="http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion"><img src="/assets/flugsvamp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion"><img src="/assets/flugsvamp-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion"><img src="/assets/flugsvamp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion"><img src="/assets/flugsvamp-register.webp" alt="image" style="max-width: 100%;"><a>
